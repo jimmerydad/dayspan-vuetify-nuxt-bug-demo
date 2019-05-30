@@ -287,6 +287,8 @@ body, html, #app, #dayspan {
   height: 100%;
 }
 
+ .ds-calendar-event {   position: unset !important; } 
+ 
 .v-btn--flat,
 .v-text-field--solo .v-input__slot {
   background-color: #f5f5f5 !important;
